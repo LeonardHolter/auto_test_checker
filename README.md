@@ -1,4 +1,4 @@
-This scrip will automatically correct and grade a multiple choice test
+This scrip will automatically correct and grade a multiple choice test with a grade from 1-6
 
 The script was primarily built with OpenCV and Numpy and trained on pretrained datasets from OpenCV
 
